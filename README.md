@@ -1,5 +1,6 @@
 <h1>Hey There 👋, I'm ADITYA SAI</h1>
-<p>🚀 Java Fullstack Developer | UI/UX Enthusiast | Problem Solver  💡 Passionate about building scalable web applications, crafting intuitive UI/UX, and optimizing system performance.</p>
+<p>🚀 Java Fullstack Developer | UI/UX Enthusiast | Problem Solver</p>
+<p>💡 Passionate about building scalable web applications, crafting intuitive UI/UX, and optimizing system performance.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
